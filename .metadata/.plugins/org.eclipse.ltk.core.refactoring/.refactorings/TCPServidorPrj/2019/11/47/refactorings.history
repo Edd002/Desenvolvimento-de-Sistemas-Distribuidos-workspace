@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Capitulo6Atividade2/src/servidor&apos;&#x0D;&#x0A;- Original project: &apos;TCPServidorPrj&apos;&#x0D;&#x0A;- Destination element: &apos;Capitulo6Atividade2/src/servidor&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     br.fumec.tcp.TCPServidor.java&#x0D;&#x0A;     br.fumec.tcp.TCPServidorSimples.java" description="Copy compilation units" destination="=Capitulo6Atividade2/src&lt;servidor" element1="/src&lt;br.fumec.tcp{TCPServidor.java" element2="/src&lt;br.fumec.tcp{TCPServidorSimples.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1574453729860" units="2" version="1.0"/>
+</session>
