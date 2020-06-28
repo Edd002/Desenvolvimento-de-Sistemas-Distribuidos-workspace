@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy 2 elements to &apos;Capitulo6Atividade1/src/cliente&apos;&#x0D;&#x0A;- Original project: &apos;UdpClientePrj&apos;&#x0D;&#x0A;- Destination element: &apos;Capitulo6Atividade1/src/cliente&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     br.fumec.udp.UDPCliente.java&#x0D;&#x0A;     br.fumec.udp.Util.java" description="Copy compilation units" destination="=Capitulo6Atividade1/src&lt;cliente" element1="/src&lt;br.fumec.udp{UDPCliente.java" element2="/src&lt;br.fumec.udp{Util.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1574377040052" units="2" version="1.0"/>
-</session>

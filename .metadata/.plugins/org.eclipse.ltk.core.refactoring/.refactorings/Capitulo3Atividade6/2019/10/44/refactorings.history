@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename field &apos;M&apos; in &apos;Panela&apos; to &apos;isEmpty&apos;&#x0D;&#x0A;- Original project: &apos;Capitulo3Atividade6&apos;&#x0D;&#x0A;- Original element: &apos;Panela.M&apos;&#x0D;&#x0A;- Renamed element: &apos;Panela.isEmpty&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;M&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;{Panela.java[Panela^M" name="isEmpty" references="true" setter="false" stamp="1572396116887" textual="false" version="1.0"/>
-</session>
